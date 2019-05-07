@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Hello World Custom">b42e89ddf41533007f441936086833ae</application>
+        <filter/>
+        <name>Hello World Custom Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_hello_world1.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 20:59:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>382e89ddf41533007f441936086833b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World Custom Table</sys_name>
+        <sys_package display_value="Hello World Custom" source="x_snc_hello_world1">982e09ddf41533007f44193608683318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World Custom">982e09ddf41533007f44193608683318</sys_scope>
+        <sys_update_name>sys_ui_module_382e89ddf41533007f441936086833b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 20:59:35</sys_updated_on>
+        <table>x_snc_hello_world1_hello_world_custom_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
